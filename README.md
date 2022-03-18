@@ -1,6 +1,6 @@
 # Transactions Heatmap
 
-This app display a heatmap of transactions in 2019. Profits appear green while deficits are red. Click on a square to see information for that day.
+This app displays a heatmap of transactions in 2019. Profits appear green while deficits are red. Click on a square to see information for that day.
 
 ## Requirements
 
